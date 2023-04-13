@@ -1,13 +1,14 @@
 # WhoAmI
 ## Blentrit Hasi
 
-Une quhem Blentrit Hasi, jam nje 19 vjecar nga Istogu.
-![273367082_3333778723507803_1352709410147407057_n](https://user-images.githubusercontent.com/128260589/231872522-6a3faaac-dc5e-4f2e-9a02-bcabcdc6a8ef.jpg)
+Unë quhem Blentrit Hasi, jam një 19-vjeçar nga Istogu.
+![273367082_3333778723507803_1352709410147407057_n (1)](https://user-images.githubusercontent.com/128260589/231874959-20ad0510-e818-4355-83cf-9013fa6180cf.jpg)
 
-## Cfare me pelqen mua
+## Çfarë më pëlqen mua
 
-* Kodim te projekteve personale
-- TV Shows
+
+* Kodimi i projekteve personale
+- Seriale televizive
 + Gaming
 
 
